@@ -1,6 +1,6 @@
 # WebResume
 
-This is a React-based portfolio website for Adarsh Mishra.
+This is a React-based resume website for Adarsh Mishra.
 
 ## Installation
 
